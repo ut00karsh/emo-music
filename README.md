@@ -1,4 +1,4 @@
-#emo-music😤😔😀
+# emo-music😤😔😀
 
 A modern web app that uses a pretrained model to recognize moods ( Facial Recognition using CNN ) from the webcam and plays songs accordingly.
 
